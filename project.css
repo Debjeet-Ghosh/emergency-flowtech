@@ -1,0 +1,68 @@
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-size: cover;
+	background-position: center;
+}
+
+/* Welcome to EFt*/
+#EFT{
+ color: white;
+ font-size: 63px;
+ font-family: Kameron;
+ font-weight: 700;
+ letter-spacing: 3.78px;
+ word-wrap: break-word
+}
+
+/* Fulfill Your Needs !!!*/
+#needs {
+color: white;
+ font-size: 25px;
+ font-family: IM FELL Great Primer SC; 
+ font-weight: 400;
+ letter-spacing: 1.50px;
+ word-wrap: break-word;
+}
+
+/* Home */
+#home {
+color: white;
+ font-size: 20px;
+ font-family: Kameron;
+ font-weight: 700;
+ letter-spacing: 1.20px;
+ word-wrap: break-word
+}
+
+/* Store */
+ #store{
+ color: white;
+ font-size: 20px;
+ font-family: Kameron;
+ font-weight: 700;
+ letter-spacing: 1.20px;
+ word-wrap: break-word;
+ }
+
+/* Admin */
+ #admin{
+ color: white;
+ font-size: 20px;
+ font-family: Kameron;
+ font-weight: 700;
+ letter-spacing: 1.20px;
+ word-wrap: break-word
+ }
+
+/* About us*/
+ #about_us{
+ color: white;
+ font-size: 20px;
+ font-family: Kameron;
+ font-weight: 700;
+ letter-spacing: 1.20px;
+ word-wrap: break-word
+ }
